@@ -1,6 +1,6 @@
 # Lilith CLI
 
-A terminal-first **LLM agent** for technical analysis, architecture discussions, and general exploration.  
+A cli **LLM agent** for technical analysis, architecture discussions, and general exploration.  
 Supports **Anthropic Claude** and **DeepSeek** out of the box.
 
 ![Alt text](cli-startup.png)
